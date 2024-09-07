@@ -1,0 +1,19 @@
+# Legg til den endrede filen
+git add docs/index.html
+
+# Commit endringene med en beskrivende melding
+git commit -m "Fikset feilen i HTML-koden i index.html"
+
+# Push hotfix-grenen til GitHub
+git push origin hotfix
+
+# Sjekk ut main-grenen
+git checkout main
+
+# Slå sammen hotfix-grenen med main
+git merge hotfix
+
+# Push main-grenen til GitHub
+git push origin main
+
+
