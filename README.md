@@ -7,7 +7,7 @@ git version 2.46.0.windows.1
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Truls Reime</Oblig-0>
+<title> Truls Reime </Oblig-0>
 </head>
 <body>
 <h1>Min IS-114 portfolio</h1>
